@@ -1,0 +1,54 @@
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MNLZ.resources
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MNLZ.resources
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MNLZ.resources
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\WindowsFormsApp1 — копия — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MNLZ.resources
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MNLZ.resources
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ПК\Desktop\Диплом\program\MNLZ_3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
